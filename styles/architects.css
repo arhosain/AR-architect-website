@@ -255,6 +255,16 @@
   filter: grayscale(100%);
 }
 
+.footer{
+  max-width: 1440px;
+  margin: 0 auto;
+  margin-top: 130px;
+  margin-bottom: 200px;
+}
+.footer-content{
+  padding:39px 410px;
+  
+}
 
 /* mobile media size */
 @media screen and (max-width:576px) {
